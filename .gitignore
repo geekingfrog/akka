@@ -1,0 +1,10 @@
+#ignore java class files
+.class
+target/
+
+#ignore eclipse specific files
+.project
+.classpath
+.settings
+
+
